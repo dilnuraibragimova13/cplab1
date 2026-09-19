@@ -1,8 +1,8 @@
 [
 {
-  "directory": "/Users/student/CLionProjects/untitled/cmake-build-debug",
-  "command": "/usr/bin/c++ -g -std=gnu++20 -arch arm64 -fcolor-diagnostics -o CMakeFiles/untitled.dir/main.cpp.o -c /Users/student/CLionProjects/untitled/main.cpp",
-  "file": "/Users/student/CLionProjects/untitled/main.cpp",
-  "output": "/Users/student/CLionProjects/untitled/cmake-build-debug/CMakeFiles/untitled.dir/main.cpp.o"
+  "directory": "C:/Users/User/CLionProjects/cplab1/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.2\\bin\\mingw\\bin\\C__~1.EXE -g -std=gnu++20 -fdiagnostics-color=always -fmodules-ts -fmodule-mapper=CMakeFiles\\untitled.dir\\problem1.cpp.obj.modmap -MD -fdeps-format=p1689r5 -x c++ -o CMakeFiles\\untitled.dir\\problem1.cpp.obj -c C:\\Users\\User\\CLionProjects\\cplab1\\problem1.cpp",
+  "file": "C:/Users/User/CLionProjects/cplab1/problem1.cpp",
+  "output": "C:/Users/User/CLionProjects/cplab1/cmake-build-debug/CMakeFiles/untitled.dir/problem1.cpp.obj"
 }
 ]
