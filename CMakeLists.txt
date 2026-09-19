@@ -1,6 +1,6 @@
 cmake_minimum_required(VERSION 4.3)
-project(untitled)
+project(cp_lab1)
 
 set(CMAKE_CXX_STANDARD 20)
 
-add_executable(untitled problem1.cpp)
+add_executable(cp_lab1 problem1.cpp)
