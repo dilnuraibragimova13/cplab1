@@ -1,0 +1,19 @@
+# ninja log v7
+20	235	8114364965171192	CMakeFiles/untitled.dir/problem1.cpp.obj.ddi	ef63f22a994cb700
+236	269	8114364967629882	CMakeFiles/untitled.dir/CXX.dd	c42fcc119de28e32
+236	269	8114364967629882	CMakeFiles/untitled.dir/CXXModules.json	c42fcc119de28e32
+236	269	8114364967629882	CMakeFiles/untitled.dir/problem1.cpp.obj.modmap	c42fcc119de28e32
+269	733	8114364967659886	CMakeFiles/untitled.dir/problem1.cpp.obj	9cd6941309677907
+735	936	8114364972322241	untitled.exe	4e9ef7972ba5db43
+21	191	8114378759908654	CMakeFiles/untitled.dir/problem1.cpp.obj.ddi	ef63f22a994cb700
+191	225	8114378761602875	CMakeFiles/untitled.dir/CXX.dd	c42fcc119de28e32
+191	225	8114378761602875	CMakeFiles/untitled.dir/CXXModules.json	c42fcc119de28e32
+191	225	8114378761602875	CMakeFiles/untitled.dir/problem1.cpp.obj.modmap	c42fcc119de28e32
+226	705	8114378761952877	CMakeFiles/untitled.dir/problem1.cpp.obj	9cd6941309677907
+705	807	8114378766742463	untitled.exe	4e9ef7972ba5db43
+43	331	8114928935477389	CMakeFiles/untitled.dir/problem1.cpp.obj.ddi	ef63f22a994cb700
+331	371	8114928938356101	CMakeFiles/untitled.dir/CXX.dd	c42fcc119de28e32
+331	371	8114928938356101	CMakeFiles/untitled.dir/CXXModules.json	c42fcc119de28e32
+331	371	8114928938356101	CMakeFiles/untitled.dir/problem1.cpp.obj.modmap	c42fcc119de28e32
+372	771	8114928938771320	CMakeFiles/untitled.dir/problem1.cpp.obj	9cd6941309677907
+771	1021	8114928942760601	untitled.exe	4e9ef7972ba5db43
